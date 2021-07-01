@@ -12,7 +12,7 @@
 
 ### Chapter 3
 ##### Success Leaves Clues
-- *.*
+- *No one succeeds alone. No one.*
 
 ## Part I
 ### Chapter 4
