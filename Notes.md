@@ -9,6 +9,7 @@
 - *Find the lead domino, and whack away at it until it falls.*
 - *The key is over time. Success is built sequentially. It's one thing at a time.*
 
+## Part I
 ### Chapter 3
 ##### Success Leaves Clues
 - *.*
@@ -36,6 +37,8 @@
 ### Chapter 9
 ##### Big Is Bad
 - *.*
+
+## Part II
 ### Chapter 10
 ##### The Focusing Question
 - *.*
@@ -48,6 +51,7 @@
 ##### The Path to Great Answers
 - *.*
 
+## Part III
 ### Chapter 13
 ##### Live With Purpose
 - *.*
