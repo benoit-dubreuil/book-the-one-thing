@@ -1,5 +1,6 @@
 # Notes
 
+## Introduction
 ### Chapter 1
 ##### The ONE Thing
 - *Extraordinary results are directly determined by how narrow you can make your focus.*
@@ -72,6 +73,7 @@
 ##### The Four Thieves
 - *.*
 
+## Outroduction
 ### Chapter 18
 ##### The Journey
 - *.*
