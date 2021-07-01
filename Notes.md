@@ -14,10 +14,17 @@
 ##### Success Leaves Clues
 - *No one succeeds alone. No one.*
 
-## Part I
+## Part I: The Lies
 ### Chapter 4
 ##### Everything Matters Equally
-- *.*
+- *Doing the most important thing is always the most important thing.*
+  - *Go small.*
+  - *Go extreme.*
+  - *Say no.*
+  - *Don't be trapped in the "check off" game.*
+- *The majority of what you want will come from the minority of what you do.*
+- *80/20 Principle: 20% effort, 80% results.*
+- *Achievers always work from a clear sense of priority.*
 
 ### Chapter 5
 ##### Multitasking
