@@ -28,7 +28,12 @@
 
 ### Chapter 5
 ##### Multitasking
-- *.*
+- *Task switching exacts a cost.*
+- *Why would we even tolerate multitasking when we're doing the most important work?*
+  - *Distraction is natural.*
+  - *Multitasking takes a toll.*
+  - *Distraction undermines results.*
+- *It's not that we have too little time to do all the things we need to do, it's that we feel the need to do too many things in the time we have.*
 
 ### Chapter 6
 ##### A Disciplined Life
