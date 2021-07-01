@@ -9,11 +9,11 @@
 - *Find the lead domino, and whack away at it until it falls.*
 - *The key is over time. Success is built sequentially. It's one thing at a time.*
 
-## Part I
 ### Chapter 3
 ##### Success Leaves Clues
 - *.*
 
+## Part I
 ### Chapter 4
 ##### Everything Matters Equally
 - *.*
