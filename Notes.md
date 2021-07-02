@@ -58,7 +58,14 @@
 
 ### Chapter 8
 ##### A Balanced Life
-- *.*
+- *Attend to all things, everything gets shortchanged.*
+- *Magic happens at the extremes.*
+- *When you gamble with your time, you may be placing a bet you can’t cover.*
+- *To achieve an extraordinary result you must choose what matters most and give it all the time it demands. This requires getting extremely out of balance in relation to all other work issues, with only infrequent counterbalancing to address them.*
+- *When you act on your priority, you’ll automatically go out of balance, giving more time to one thing over another.*
+  - *Think about two balancing buckets.*
+  - *Counterbalance your work bucket.*
+  - *Counterbalance your personal life bucket.*
 
 ### Chapter 9
 ##### Big Is Bad
