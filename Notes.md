@@ -203,8 +203,9 @@ knows their ultimate ceiling.*
 ## Outroduction
 ### Chapter 18
 ##### The Journey
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *At any moment in time there can be only ONE Thing.*
+- *Go live a life worth living where, in the end, you’ll be able to say, “I’m glad I did,” not “I wish I had.”*
+- *A life worth living might be measured in many ways, but the one way that stands above all others is living a life of no regrets.*
+- *Success is an inside job.*
+  - *Put yourself together, and your world falls into place.*
+  - *You are the first domino.*
