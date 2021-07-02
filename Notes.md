@@ -94,11 +94,13 @@ knows their ultimate ceiling.*
 
 ### Chapter 11
 ##### The Success Habit
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Start with the big stuff and see where it takes you.*
+  - *Understand and believe it.*
+  - *Use it.*
+    - *"What's the ONE Thing I can do today for [whatever you want] such that by doing it everything else will be easier or even unnecessary?"*
+  - *Make it a habit.*
+  - *Leverage reminders.*
+  - *Recruit support.*
 
 ### Chapter 12
 ##### The Path to Great Answers
