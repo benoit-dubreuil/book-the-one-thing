@@ -70,42 +70,82 @@
 ### Chapter 9
 ##### Big Is Bad
 - *.*
+- *.*
+- *.*
+- *.*
+- *.*
 
 ## Part II
 ### Chapter 10
 ##### The Focusing Question
 - *.*
+- *.*
+- *.*
+- *.*
+- *.*
 
 ### Chapter 11
 ##### The Success Habit
 - *.*
+- *.*
+- *.*
+- *.*
+- *.*
 
 ### Chapter 12
 ##### The Path to Great Answers
+- *.*
+- *.*
+- *.*
+- *.*
 - *.*
 
 ## Part III
 ### Chapter 13
 ##### Live With Purpose
 - *.*
+- *.*
+- *.*
+- *.*
+- *.*
 
 ### Chapter 14
 ##### Live by Priority
+- *.*
+- *.*
+- *.*
+- *.*
 - *.*
 
 ### Chapter 15
 ##### Live for Productivity
 - *.*
+- *.*
+- *.*
+- *.*
+- *.*
 
 ### Chapter 16
 ##### The Three Commitments
+- *.*
+- *.*
+- *.*
+- *.*
 - *.*
 
 ### Chapter 17
 ##### The Four Thieves
 - *.*
+- *.*
+- *.*
+- *.*
+- *.*
 
 ## Outroduction
 ### Chapter 18
 ##### The Journey
+- *.*
+- *.*
+- *.*
+- *.*
 - *.*
