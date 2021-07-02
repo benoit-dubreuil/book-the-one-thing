@@ -157,9 +157,9 @@ knows their ultimate ceiling.*
     - *Store provisions.*
     - *Sweep for mines.*
     - *Enlist support.*
-  - *Connect the dots.*
-  - *Time block your ONE Thing.*
-  - *Protect your time block at all costs.*
+- *Connect the dots.*
+- *Time block your ONE Thing.*
+- *Protect your time block at all costs.*
 
 ### Chapter 16
 ##### The Three Commitments
