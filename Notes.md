@@ -135,11 +135,31 @@ knows their ultimate ceiling.*
 
 ### Chapter 15
 ##### Live for Productivity
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Productive action transforms lives.*
+- *Putting together a life of extraordinary results simply comes down to getting the most out of what you do, when what you do matters.*
+- *The most successful people are the most productive people.*
+- *Time blocking.*
+    - *It’s a way of making sure that what has to be done **gets** done.*
+    - *If disproportionate results come from one activity, then you must give that one activity disproportionate time.*
+  - *Time block your time off.*
+    - *Resting is as important as working.* 
+  - *Time block your ONE Thing.*
+    - *Block time as early in your day as you possibly can.*
+    - *Block four hours a day.*
+    - *Normal business culture gets in the way of the very productivity it seeks because of the way people traditionally schedule their time.*
+    - *Be a maker in the morning and a manager in the afternoon.*
+  - *Time block your planning time.*
+    - *Block an hour each week to review your annual and monthly goals.*
+    - *There is magic in knocking down your most important domino day after day.*
+  - *Protect your time block.*
+    - *Your own need to do other things instead of your ONE Thing may be your biggest challenge to overcome.*
+    - *Build a bunker.*
+    - *Store provisions.*
+    - *Sweep for mines.*
+    - *Enlist support.*
+  - *Connect the dots.*
+  - *Time block your ONE Thing.*
+  - *Protect your time block at all costs.*
 
 ### Chapter 16
 ##### The Three Commitments
