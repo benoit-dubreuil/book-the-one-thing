@@ -112,13 +112,15 @@ knows their ultimate ceiling.*
   - *Benchmark and trend for the best answer.*
 
 ## Part III: Extraordinary Results
+- *Great businesses are built one productive person at a time.*
 ### Chapter 13
 ##### Live With Purpose
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Our purpose sets our priority and our priority determines the productivity our actions produce.*
+- *Who we are and where we want to go determine what we do and what we accomplish.*
+- *Happiness happens on the way to fulfillment.*
+- *Financially wealthy people are those who have enough money coming in without having to work to finance their purpose in life.*
+  - *Discover your Big Why.*
+  - *Absent an answer, pick a direction.*
 
 ### Chapter 14
 ##### Live by Priority
