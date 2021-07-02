@@ -37,7 +37,14 @@
 
 ### Chapter 6
 ##### A Disciplined Life
-- *.*
+- *Success is actually a short race—a sprint fueled by discipline just long enough for habit to kick in and take over.*
+- *You can become successful with less discipline than you think, for one simple reason: success is about doing the right thing, not about doing everything right.*
+- *When you do the right thing, it can liberate you from having to monitor everything.*
+- *It takes an average of 66 days to acquire a new habit.*
+- *Those with the right habit seem to do better than others. They're doing the most important thing regularly and, as a result, everything is easier.*
+  - *Don't be a disciplined person. Be a habit person.*
+  - *Build one habit at a time.*
+  - *Give each habit enough time.*
 
 ### Chapter 7
 ##### Willpower Is Always on Call
