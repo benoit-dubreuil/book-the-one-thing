@@ -182,11 +182,23 @@ knows their ultimate ceiling.*
 
 ### Chapter 17
 ##### The Four Thieves
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Inability to Say "No".*
+  - *When you say yes to something, it’s imperative that you understand what you’re saying no to.*
+  - *You can’t please everyone, so don’t try.*
+  - *A request must be connected to my ONE Thing for me to consider it.*
+- *Fear of Chaos.*
+  - *When you strive for greatness, chaos is guaranteed to show up.*
+- *Poor Health Habits.*
+  - *High achievement and extraordinary results require big energy.*
+  - *When you spend the early hours energizing yourself, you get pulled through the rest of the day with little additional effort.*
+- *Environment Doesn’t Support Your Goals.*
+  - *Your environment must support your goals.*
+  - *No one succeeds alone and no one fails alone. Pay attention to the people around you.*
+  - *When you clear the path to success—that’s when you consistently get there.*
+- *Start saying "no."*
+- *Accept chaos.*
+- *Manage your energy.*
+- *Take ownership of your environment.*
 
 ## Outroduction
 ### Chapter 18
