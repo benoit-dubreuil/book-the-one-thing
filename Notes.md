@@ -124,11 +124,14 @@ knows their ultimate ceiling.*
 
 ### Chapter 14
 ##### Live by Priority
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Goal setting to the now.*
+- *Purpose without priority is powerless.*
+- *The further away a reward is in the future, the smaller the immediate motivation to achieve it.*
+- *you’re training your mind how to think, how to connect one goal with the next over time until you know the most important thing you must do right NOW.*
+- *Students who visualized the process performed better across the board.*
+  - *There can only be ONE.*
+  - *Goal Set to the Now.*
+  - *Put pen to paper.*
 
 ### Chapter 15
 ##### Live for Productivity
