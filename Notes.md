@@ -104,11 +104,12 @@ knows their ultimate ceiling.*
 
 ### Chapter 12
 ##### The Path to Great Answers
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Extraordinary results require a Great Answer.*
+- *The research and experience of others is the best place to start when looking for your answer.*
+- *A new answer usually requires new behavior.*
+  - *Think big and specific.*
+  - *Think possibilities.*
+  - *Benchmark and trend for the best answer.*
 
 ## Part III
 ### Chapter 13
