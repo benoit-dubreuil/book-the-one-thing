@@ -69,13 +69,17 @@
 
 ### Chapter 9
 ##### Big Is Bad
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *No one
+knows their ultimate ceiling.*
+- *The only actions that become springboards to succeeding big are those informed by big thinking to begin with..*
+- *What you build today will either empower or restrict you tomorrow.*
+- *Only living big will let you experience your true life and work potential..*
+  - *Think big.*
+  - *Don’t order from the menu.*
+  - *Act bold.*
+  - *Don’t fear failure.*
 
-## Part II
+## Part II: The Truth
 ### Chapter 10
 ##### The Focusing Question
 - *.*
