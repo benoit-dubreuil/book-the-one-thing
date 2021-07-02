@@ -163,11 +163,22 @@ knows their ultimate ceiling.*
 
 ### Chapter 16
 ##### The Three Commitments
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *Follow the Path of Mastery.*
+  - *When you can see mastery as a path you go down instead of a destination you arrive at, it starts to feel accessible and attainable.*
+  - *More than anything else, expertise tracks with hours invested.*
+  - *The pursuit of mastery bears gifts.*
+- *Move from "E" to "P".*
+  - *The path of mastering something is the combination of not only doing the best you can do at it, but also doing it the best it can be done.*
+  - *E: entrepreneurial.*
+  - *P: purposeful.*
+- *Live the Accountability Cycle.*
+  - *Accountable people achieve results others only dream of.*
+  - *Highly successful people are clear about their role in the events of their life.*
+  - *“The single most important difference between these amateurs and the three groups of elite performers is that the future elite performers seek out teachers and coaches.”*
+- *Commit to be your best.*
+- *Be purposeful about your ONE Thing.*
+- *Take ownership of your outcomes.*
+- *Find a coach.*
 
 ### Chapter 17
 ##### The Four Thieves
