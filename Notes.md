@@ -48,7 +48,13 @@
 
 ### Chapter 7
 ##### Willpower Is Always on Call
-- *.*
+- *Willpower has a limited battery life.*
+- *You make doing what matters most a priority when your willpower is its highest.*
+- *Do your most important work—your ONE Thing—early.*
+  - *Don't spread your willpower too thin.*
+  - *Monitor your fuel gauge.*
+  - *Time your task.*
+  - *Mind your motivation.*
 
 ### Chapter 8
 ##### A Balanced Life
