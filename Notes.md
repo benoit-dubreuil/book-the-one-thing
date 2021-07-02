@@ -71,22 +71,26 @@
 ##### Big Is Bad
 - *No one
 knows their ultimate ceiling.*
-- *The only actions that become springboards to succeeding big are those informed by big thinking to begin with..*
+- *The only actions that become springboards to succeeding big are those informed by big thinking to begin with.*
 - *What you build today will either empower or restrict you tomorrow.*
-- *Only living big will let you experience your true life and work potential..*
+- *Only living big will let you experience your true life and work potential.*
   - *Think big.*
   - *Don’t order from the menu.*
   - *Act bold.*
   - *Don’t fear failure.*
 
 ## Part II: The Truth
+- *Success comes down to this: being appropriate in the moments of your life.*
 ### Chapter 10
 ##### The Focusing Question
-- *.*
-- *.*
-- *.*
-- *.*
-- *.*
+- *The quality of any answer is directly determined by the quality of the question.*
+- *How we phrase the questions we ask ourselves determines the answers that eventually become our life.*
+- *Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.*
+- *What's the ONE Thing I can do such that by doing it everything else will be easier or unnecessary?*
+  - *Great questions are the path to great answers.*
+  - *The Focusing Question is a double-duty question.*
+  - *The Big-Picture Question: "What’s my ONE Thing?".*
+  - *The Small-Focus Question: "What’s my ONE Thing right now?".*
 
 ### Chapter 11
 ##### The Success Habit
