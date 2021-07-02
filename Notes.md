@@ -139,8 +139,8 @@ knows their ultimate ceiling.*
 - *Putting together a life of extraordinary results simply comes down to getting the most out of what you do, when what you do matters.*
 - *The most successful people are the most productive people.*
 - *Time blocking.*
-    - *It’s a way of making sure that what has to be done **gets** done.*
-    - *If disproportionate results come from one activity, then you must give that one activity disproportionate time.*
+  - *It’s a way of making sure that what has to be done **gets** done.*
+  - *If disproportionate results come from one activity, then you must give that one activity disproportionate time.*
   - *Time block your time off.*
     - *Resting is as important as working.* 
   - *Time block your ONE Thing.*
